@@ -17,7 +17,7 @@ public class User {
 
     @Id
     @GeneratedValue
-    public long id;
+    public Long id;
 
     String name;
 
